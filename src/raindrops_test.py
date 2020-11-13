@@ -2,8 +2,6 @@ import unittest
 
 from raindrops import convert
 
-# Tests adapted from `problem-specifications//canonical-data.json`
-
 
 class RaindropsTest(unittest.TestCase):
     def test_the_sound_for_1_is_1(self):
